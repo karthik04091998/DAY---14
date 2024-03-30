@@ -1,0 +1,94 @@
+h1{
+    text-align: center;
+    padding: 40px;
+}
+
+.page{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    padding: 50px;
+   
+}
+.First{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 1px 3px 1px 3px;
+    color: black;
+    background-color: gainsboro;
+}
+.Previous{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 1px 3px 1px 3px;
+    color: black;
+    background-color: gainsboro;
+}
+.Two{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 1px 7px 1px 7px;
+    color: black;
+    background-color: gainsboro;
+}
+.Three{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 1px 7px 1px 7px;
+    color: black;
+    background-color: gainsboro;
+
+}
+.Four{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 1px 7px 1px 7px;
+    color: black;
+    background-color: gainsboro;
+}
+.Five{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 1px 7px 1px 7px;
+    color: black;
+    background-color: gainsboro;
+}
+.Six{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 1px 7px 1px 7px;
+    color: black;
+    background-color: gainsboro;
+}
+.Seven{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 1px 7px 1px 7px;
+    color: black;
+    background-color: gainsboro;
+}
+.Eight{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 1px 7px 1px 7px;
+    color: black;
+    background-color: gainsboro;
+}
+.Nine{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 1px 7px 1px 7px;
+    color: black;
+    background-color: gainsboro;
+}
+.Ten{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 1px 7px 1px 7px;
+    color: black;
+    background-color: gainsboro;
+}
+a:hover{
+    background-color: yellowgreen;
+}
